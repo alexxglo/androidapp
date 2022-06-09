@@ -1,4 +1,4 @@
-package com.example.cameracodeexample.utils;
+package com.example.assessment.utils;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

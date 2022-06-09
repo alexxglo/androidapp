@@ -1,4 +1,4 @@
-package com.example.cameracodeexample.utils;
+package com.example.assessment.utils;
 
 public class LocalResponse {
     String image;

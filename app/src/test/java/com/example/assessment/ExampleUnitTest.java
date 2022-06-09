@@ -1,4 +1,4 @@
-package com.example.cameracodeexample;
+package com.example.assessment;
 
 import org.junit.Test;
 
