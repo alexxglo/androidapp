@@ -2,9 +2,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="HardcodedText">
-
     <item
-        android:id="@+id/cameraFragment"
+        android:id="@+id/nav_home"
+        android:title="Android Assessment" />
+    <item
+        android:id="@+id/nav_account"
         android:title="My Account" />
 
     <item
